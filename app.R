@@ -1,4 +1,3 @@
-#Bootcamp Cientista de Dados - Professor Fernando Amaral
 
 library(shiny)
 
